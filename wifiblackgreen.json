@@ -1,0 +1,114 @@
+{
+    "status": true,
+    "responseCode": 200,
+    "message": "",
+    "dataAds": {
+        "adsOnOff": true,
+        "isTestMode": false,
+        "isConsentMsgShow": true,
+        "isBackInterstitialShow": false,
+        "adsTypeOpenServer": "google",
+        "adsTypeBannerServer": "google",
+        "adsTypeNativeServer": "google",
+        "adsTypeInterstitialServer": "google",
+        "openAdsTimer": 15000,
+        "interstitialClick": 2,
+        "randomAdType": "google,facebook",
+        "nativeTheme": "custom",
+        "googleBannerId": "/21753324030,23059100595/wifi.camera.home.security.v380.cctv.live_Banner",
+        "googleInterstitialId": "/21753324030,23059100595/wifi.camera.home.security.v380.cctv.live_Interstitial",
+        "googleNativeId": "/21753324030,23059100595/wifi.camera.home.security.v380.cctv.live_Native",
+        "googleAppOpenId": "/21753324030,23059100595/wifi.camera.home.security.v380.cctv.live_AppOpen",
+        "facebookBannerId": "421692626927363_421695313593761",
+        "facebookInterstitialId": "421692626927363_421695566927069",
+        "facebookNativeId": "421692626927363_421695643593728",
+        "maxBannerId": "6f5e39103a440efb",
+        "maxInterstitialId": "c9c5d9448d951a36",
+        "maxSmallNativeId": "9287f19e7e33c032",
+        "maxNativeId": "e9e00155fe5a6bb6",
+        "maxAppOpenId": "a640ab783affa431",
+        "unityBannerId": "your_unity_banner_id",
+        "unityInterstitialId": "your_unity_inter_id",
+        "unityNativeId": "your_unity_native_id",
+        "vungleBannerId": "your_vungle_banner_id",
+        "vungleInterstitialId": "your_vungle_inter_id",
+        "vungleNativeId": "your_vungle_native_id",
+        "nativePerItem": "",
+        "publisherId": "",
+        "privacyPolicy": "https://camappscctv.github.io/privacy.html",
+        "localPrivacyPolicy": "https://camappscctv.github.io/privacy.html",
+        "localBanner": [
+            {
+                "bannerLink": "",
+                "bannerImage": ""
+            }
+        ],
+        "localNative": [
+            {
+                "nativeLink": "",
+                "nativeImage": "",
+                "nativeTitle": "",
+                "nativeSubTitle": "",
+                "nativeLogo": "",
+                "nativeButtonTitle": "Install"
+            }
+        ],
+        "localInterstitial": [
+            {
+                "interstitialLink": "",
+                "interstitialImage": "",
+                "interstitialTitle": "",
+                "interstitialSubTitle": "",
+                "interstitialLogo": "",
+                "interstitialButtonTitle": "Go to store"
+            }
+        ],
+        "localOpen": [
+            {
+                "appOpenLink": "",
+                "appOpenImage": "",
+                "appOpenTitle": "",
+                "appOpenSubTitle": "",
+                "appOpenLogo": "",
+                "appOpenButtonTitle": "Go to store"
+            }
+        ]
+    },
+    "data": {
+        "appLive":true,
+        "home_screen_native": false,
+        "add_device_screen_native": true,
+        "dvr_type_screen_native": false,
+        "server_screen_native": true,
+        "video_type_screen_native": true,
+        "camara_type_screen_native": true,
+        "ip_monitor_screen_native": true,
+        "camara_manual_screen_native": true,
+        "recent_screen_banner": false,
+        "home_screen_content": "<h6>Wifi Camera is a free app that can use your smartphone/tablet as a Cloud Security Camera / Baby Monitor. You can save the cost of buying an IP camera / Baby Monitor.</h6>",
+        "ocr_screen_content": "",
+        "isLiveUrlScreen": true,
+        "main_list": [
+        {
+          "id": "1",
+          "tool_name": "WiFi Camera",
+          "is_show": "true"
+        },
+        {
+          "id": "2",
+          "tool_name": "Manual Camera",
+          "is_show": "true"
+        },
+        {
+          "id": "3",
+          "tool_name": "IP Monitor",
+          "is_show": "true"
+        },
+        {
+          "id": "4",
+          "tool_name": "Camara Preview",
+          "is_show": "true"
+        }
+      ]
+    }
+}
