@@ -12,7 +12,7 @@
     "adsTypeNativeServer": "google",
     "adsTypeInterstitialServer": "google",
     "openAdsTimer": 15000,
-    "interstitialClick": 0,
+    "interstitialClick": 3,
     "randomAdType": "google,custom",
     "nativeTheme": "custom",
     "googleBannerId": "your_google_banner",
