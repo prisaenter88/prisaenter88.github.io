@@ -3,9 +3,9 @@
   "responseCode": 200,
   "message": "",
   "dataAds": {
-    "adsOnOff": true,
+    "adsOnOff": false,
     "isTestMode": false,
-    "isConsentMsgShow": true,
+    "isConsentMsgShow": false,
     "isBackInterstitialShow": false,
     "adsTypeOpenServer": "google",
     "adsTypeBannerServer": "google",
@@ -15,10 +15,10 @@
     "interstitialClick": 3,
     "randomAdType": "google,custom",
     "nativeTheme": "custom",
-    "googleBannerId": "/21857590943,22738518951/psa_wyze_cameraapp_always_home/banner_300x250",
-    "googleInterstitialId": "/21857590943,22738518951/psa_wyze_cameraapp_always_home/interstitial",
-    "googleNativeId": "/21857590943,22738518951/psa_wyze_cameraapp_always_home/native",
-    "googleAppOpenId": "/21857590943,22738518951/psa_wyze_cameraapp_always_home/open",
+    "googleBannerId": "your_google_banner",
+    "googleInterstitialId": "your_google_interstitial",
+    "googleNativeId": "your_google_native",
+    "googleAppOpenId": "your_app_open_id",
     "facebookBannerId": "your_facebook_banner_id",
     "facebookInterstitialId": "your_facebook_inter_id",
     "facebookNativeId": "your_facebook_native_id",
@@ -35,11 +35,11 @@
     "vungleNativeId": "your_vungle_native_id",
     "nativePerItem": "",
     "publisherId": "",
-    "privacyPolicy": "mhindathajar4.github.io/privacy_policy.html",
+    "privacyPolicy": "",
     "localPrivacyPolicy": "",
     "localBanner": [
       {
-        "bannerLink": "1",
+        "bannerLink": "",
         "bannerImage": ""
       }
     ],
@@ -50,7 +50,7 @@
         "nativeTitle": "",
         "nativeSubTitle": "",
         "nativeLogo": "",
-        "nativeButtonTitle": ""
+        "nativeButtonTitle": "Install"
       }
     ],
     "localInterstitial": [
@@ -60,17 +60,17 @@
         "interstitialTitle": "",
         "interstitialSubTitle": "",
         "interstitialLogo": "",
-        "interstitialButtonTitle": ""
+        "interstitialButtonTitle": "Go to store"
       }
     ],
     "localOpen": [
       {
         "appOpenLink": "",
-        "appOpenImage": "",
+        "appOpenImage": "f",
         "appOpenTitle": "",
         "appOpenSubTitle": "",
         "appOpenLogo": "",
-        "appOpenButtonTitle": ""
+        "appOpenButtonTitle": "Go to store"
       }
     ]
   },
@@ -87,7 +87,7 @@
     "recent_screen_banner": false,
     "home_screen_content": "<h6>QR code scanning APP for Android devices that also supports scanning and creating QR codes and barcodes in various formats.You can create various QR codes and barcodes, such as contacts, products, URL, Wi-Fi, text, E-mail</h6>",
     "ocr_screen_content": "",
-    "isLiveUrlScreen": true,
+    "isLiveUrlScreen": false,
     "main_list": [
       {
         "id": "1",
