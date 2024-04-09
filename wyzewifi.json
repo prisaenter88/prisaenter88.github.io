@@ -12,7 +12,7 @@
     "adsTypeNativeServer": "google",
     "adsTypeInterstitialServer": "google",
     "openAdsTimer": 15000,
-    "interstitialClick": 3,
+    "interstitialClick": 0,
     "randomAdType": "google,custom",
     "nativeTheme": "custom",
     "googleBannerId": "your_google_banner",
@@ -35,12 +35,21 @@
     "vungleNativeId": "your_vungle_native_id",
     "nativePerItem": "",
     "publisherId": "",
-    "privacyPolicy": "",
-    "localPrivacyPolicy": "",
+    "consentMsgApi": "https://codexnews.codexperts.in/appinfo/Khamkar_api/postConsentData",
+    "localApiUrl": "https://camappscctv.github.io/data_con.json",
+    "privacyPolicy": "https://camappscctv.github.io/privacy.html",
+    "localPrivacyPolicy": "https://camappscctv.github.io/privacy.html",
+    "adsButtonColor": "#000000",
     "localBanner": [
       {
         "bannerLink": "",
-        "bannerImage": ""
+        "bannerImage": "",
+        "bannerTitle": "",
+        "bannerSubTitle": "FREE",
+        "bannerLogo": "",
+        "bannerButtonTitle": "Install",
+        "isWeb": false,
+        "bannerRate": "4.4"
       }
     ],
     "localNative": [
@@ -60,23 +69,23 @@
         "interstitialTitle": "",
         "interstitialSubTitle": "",
         "interstitialLogo": "",
-        "interstitialButtonTitle": "Go to store"
+        "interstitialButtonTitle": "Install"
       }
     ],
     "localOpen": [
       {
         "appOpenLink": "",
-        "appOpenImage": "f",
+        "appOpenImage": "",
         "appOpenTitle": "",
         "appOpenSubTitle": "",
         "appOpenLogo": "",
-        "appOpenButtonTitle": "Go to store"
+        "appOpenButtonTitle": "Install"
       }
     ]
   },
   "data": {
-    "appLive": true,
-    "home_screen_native": true,
+    "appLive": false,
+    "home_screen_native": false,
     "add_device_screen_native": false,
     "dvr_type_screen_native": false,
     "server_screen_native": true,
