@@ -12,7 +12,7 @@
     "adsTypeNativeServer": "google",
     "adsTypeInterstitialServer": "google",
     "openAdsTimer": 15000,
-    "interstitialClick": 0,
+    "interstitialClick": 2,
     "randomAdType": "google,custom",
     "nativeTheme": "custom",
     "googleBannerId": "/21753324030,23059100595/app.camera.wifi.security.lorex.camera.wireless_Banner",
