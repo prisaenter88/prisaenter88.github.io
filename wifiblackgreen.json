@@ -4,7 +4,7 @@
   "message": "",
   "dataAds": {
     "adsOnOff": true,
-    "isTestMode": false,
+    "isTestMode": true,
     "isConsentMsgShow": true,
     "isBackInterstitialShow": false,
     "adsTypeOpenServer": "google",
