@@ -84,8 +84,8 @@
     ]
   },
   "data": {
-    "appLive": true,
-    "isLiveUrlScreen": true,
+    "appLive": false,
+    "isLiveUrlScreen": false,
     "countryNative": false,
     "nameNative": true,
     "genderBanner": true,
