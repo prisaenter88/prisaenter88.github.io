@@ -12,7 +12,7 @@
     "adsTypeNativeServer": "google",
     "adsTypeInterstitialServer": "google",
     "openAdsTimer": 15000,
-    "interstitialClick": 3,
+    "interstitialClick": 2,
     "randomAdType": "google,custom",
     "nativeTheme": "custom",
     "googleBannerId": "ca-app-pub-3940256099942544/9214589741",
@@ -39,7 +39,7 @@
     "localApiUrl": "",
     "privacyPolicy": "",
     "localPrivacyPolicy": "",
-    "adsButtonColor": "#000000",
+    "adsButtonColor": "#055e68",
     "localBanner": [
       {
         "bannerLink": "",
