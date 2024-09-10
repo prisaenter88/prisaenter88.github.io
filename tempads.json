@@ -3,7 +3,7 @@
   "responseCode": 200,
   "message": "",
   "dataAds": {
-    "adsOnOff": true,
+    "adsOnOff": false,
     "isTestMode": true,
     "isConsentMsgShow": true,
     "isBackInterstitialShow": false,
