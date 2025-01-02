@@ -87,7 +87,7 @@
         "appLive":true,
         "connectionNative":true,
         "countryNative":false,
-        "ageSelectionNative":true,
+        "ageSelectionNative":false,
         "deviceCatagoryNative":false,
         "watchCatagoryNative":true,
         "genderBanner":false,
