@@ -85,7 +85,7 @@
     ]
   },
   "data": {
-        "appLive":true,
+        "appLive":false,
         "connectionNative":true,
         "countryNative":false,
         "ageSelectionNative":false,
